@@ -44,17 +44,17 @@ body {
     text-align: center;
     text-decoration: none;
 }
-#about {
+
+#hashtag1 {
+    position: relative;
+    padding-bottom: 20px;
     color: var(--accentColor);
     font-size: 1rem;
-    font-weight: bold;
-    line-height: 1.25;
     display: block;
     font-family: var(--font);
     width: 100%;
     text-align: center;
-    text-decoration: none;
-}
+    
 
 #links {
     max-width: 675px;
@@ -93,7 +93,7 @@ body {
     color: var(--bgColor);
 }
 
-#hashtag {
+#hashtag2 {
     position: relative;
     padding-bottom: 20px;
     color: var(--accentColor);
